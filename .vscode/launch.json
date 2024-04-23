@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Java.PDF2.Ex1",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "Java.PDF2.Ex2",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "Java.PDF4.DoWhile",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "Java.PDF4.For",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "Java.PDF4.IfElse",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "Java.PDF4.SwitchCase",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchFinally",
+            "request": "launch",
+            "mainClass": "Java.PDF4.TryCatchFinally",
+            "projectName": "Classrooms_ad649871"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "Java.PDF4.While",
+            "projectName": "Classrooms_ad649871"
+        }
+    ]
+}

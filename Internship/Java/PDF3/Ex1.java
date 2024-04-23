@@ -18,3 +18,5 @@ class Ex1 {
         v22.product();
     }
 }
+
+
